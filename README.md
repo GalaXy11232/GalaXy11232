@@ -1,0 +1,4 @@
+- 👋 Hi, I’m GalaXy
+- 👀 I’m interested making games
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me: Youtube: https://www.youtube.com/channel/UCwZsSNkhafoKo76kH0Dj-BA
