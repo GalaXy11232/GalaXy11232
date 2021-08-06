@@ -1,4 +1,5 @@
-- 👋 Hi, I’m GalaXy
-- 👀 I’m interested making games
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me: Youtube: https://www.youtube.com/channel/UCwZsSNkhafoKo76kH0Dj-BA
+- 👋 Hi, I’m GalaXy;
+- 👀 I’m interested in programming in general;
+- 🌱 I’m currently learning Javascript, HTML and Python;
+- 📫 How to reach me: 
+ 	- Discord: GalaXy#5520
