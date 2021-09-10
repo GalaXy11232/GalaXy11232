@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming in general;
 - 🌱 I’m currently learning Javascript, HTML and Python;
 - 📫 How to reach me: 
- 	- Discord: GalaXy#5520
+ 	- Discord: ice!GalaXy#5520
