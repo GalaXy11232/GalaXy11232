@@ -1,5 +1,4 @@
 - 👋 Hi, I’m GalaXy;
 - 👀 I’m interested in programming in general;
 - 🌱 I’m currently learning Javascript, HTML and Python;
-- 📫 How to reach me: 
- 	- Discord: ice!GalaXyﾉʙꜰᴀ#5520
+- 📫 How to reach me: You can't
