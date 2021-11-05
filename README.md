@@ -1,4 +1,3 @@
 - 👋 Hi, I’m GalaXy;
-- 👀 I’m interested in programming in general;
+- 👀 I’m interested in programming;
 - 🌱 I’m currently learning Javascript, HTML and Python;
-- 📫 How to reach me: You can't
