@@ -1,4 +1,4 @@
-# Hi, hello, welcome to my GitHub profile! 😊😊😊😊👋👋
+# Hello, hi, good evening!!!! 😊😊😊😊👋👋
   
   - **_I'm GalaXy and I am a student 😳_**
   - **_I am living on this planet named Earth 😱_**
