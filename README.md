@@ -1,4 +1,4 @@
-# Hello, hi, good evening!!!! 😊😊😊😊👋👋
+# Hello, hi!!! 😊😊😊😊👋👋
   
   - **_I'm GalaXy and I am a student 😳_**
   - **_I am living on this planet named Earth 😱_**
