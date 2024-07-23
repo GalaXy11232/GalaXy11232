@@ -1,5 +1,5 @@
 ```js
-coming soon..?
+too bored to do something
 ```
 
 ```py
