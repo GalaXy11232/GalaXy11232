@@ -1,7 +1,6 @@
-```js
-too bored to do something
-```
-
 ```py
+import time
 
+while True:
+  time.sleep(1)
 ```
